@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Quan Li</string>
+    <string name="gi_120000">Giá : 120000đ</string>
+    <string name="th_m_v_o_gi_h_ng">Thêm vào giỏ hàng</string>
+    <string name="ng_nh_p">Đăng Nhập</string>
+
+</resources>
